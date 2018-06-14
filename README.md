@@ -1,6 +1,6 @@
 # World Cup 2018
-Player | Points
-------|-------
-Player 1 | 0
-Player 2 | 0
-Player 3 | 0
+Position | Player | Points
+---------|------|-------
+1|player3|8
+2|player2|4
+3|player1|1
