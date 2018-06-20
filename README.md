@@ -1,27 +1,27 @@
 # World Cup 2018
 Position | Player | Points
 ---------|------|-------
-1|Osama|21
-2|Jon|16
-2|Mitsu|16
-2|Daniel J|16
-3|Sam|14
-3|Chris|14
-3|Felipe|14
-3|Juanjo|14
-3|Helena|14
-4|Tariq|13
-4|Frank|13
-5|Anne|12
-6|Sylvain|11
-6|Steve|11
-6|Alex|11
-7|Casper|10
-7|Arun|10
-7|Gaspar|10
-8|Hui|9
-8|Amir|9
-9|Daniel F|7
-9|Roberto|7
-10|Aylwyn|6
-11|Alfonso|4
+1|Osama|22
+2|Mitsu|17
+2|Jon|17
+3|Helena|16
+3|Daniel J|16
+4|Arun|15
+4|Juanjo|15
+4|Chris|15
+5|Gaspar|14
+5|Sam|14
+5|Hui|14
+5|Tariq|14
+5|Frank|14
+5|Felipe|14
+5|Casper|14
+6|Anne|13
+7|Amir|12
+7|Alex|12
+8|Steve|11
+8|Sylvain|11
+9|Roberto|8
+10|Daniel F|7
+11|Aylwyn|6
+12|Alfonso|4
