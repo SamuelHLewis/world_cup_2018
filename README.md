@@ -2,26 +2,26 @@
 Position | Player | Points
 ---------|------|-------
 1|Osama|39
-2|Jon|38
-3|Gaspar|33
-3|Mitsu|33
-4|Daniel J|32
-5|Frank|31
-6|Felipe|30
-6|Tariq|30
-6|Chris|30
-7|Amir|29
-8|Arun|28
-8|Juanjo|28
-8|Alex|28
-9|Daniel F|26
-9|Casper|26
-9|Hui|26
-10|Helena|25
-11|Sylvain|24
-12|Sam|23
-13|Anne|22
-14|Roberto|21
-14|Steve|21
-15|Alfonso|19
-16|Aylwyn|6
+1|Jon|39
+2|Daniel J|37
+3|Gaspar|34
+3|Amir|34
+3|Mitsu|34
+4|Frank|31
+4|Felipe|31
+4|Tariq|31
+4|Chris|31
+5|Arun|29
+6|Juanjo|28
+6|Alex|28
+7|Daniel F|27
+7|Hui|27
+8|Casper|26
+8|Helena|26
+9|Sam|24
+9|Sylvain|24
+10|Alfonso|23
+10|Anne|23
+11|Steve|22
+12|Roberto|21
+13|Aylwyn|6
